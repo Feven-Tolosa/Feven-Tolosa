@@ -9,7 +9,7 @@ I'm a passionate Full Stack Developer with a strong focus on React. I love build
 * 🌍  I'm based in Ethiopia
 * 🖥️  See my portfolio at [My Portfolio](http://mercy-feven-portifolio.netlify.app/)
 * ✉️  You can contact me at [tolosafeven0@gmail.com](mailto:tolosafeven0@gmail.com)
-* 🚀  I'm currently working on [F3N-shopping](http://f3n-shopping.netlify.app/)
+* 🚀  I'm currently working on NextJS
 * 🧠  I'm learning Next Js
 * 🤝  I'm open to collaborating on React or Next Js Fullstuck web Applications
 * ⚡  Thanks for stopping by! Let's connect and build something amazing together! 🚀
