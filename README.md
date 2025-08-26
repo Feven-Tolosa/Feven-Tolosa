@@ -7,7 +7,7 @@ Full-stuck web developer
 I'm a passionate Full Stack Developer with a strong focus on React. I love building dynamic and responsive web applications that provide great user experiences.
 
 * 🌍  I'm based in Ethiopia
-* 🖥️  See my portfolio at [My Portfolio](http://mercy-feven-portifolio.netlify.app/)
+* 🖥️  See my portfolio at [My Portfolio](https://f-vs-portflio.vercel.app/)
 * ✉️  You can contact me at [tolosafeven0@gmail.com](mailto:tolosafeven0@gmail.com)
 * 🚀  I'm currently working on NextJS
 * 🧠  I'm learning Next Js
