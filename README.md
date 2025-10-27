@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Full-stuck web developer
 ------------------------
 
-I'm a passionate Full Stack Developer with a strong focus on React. I love building dynamic and responsive web applications that provide great user experiences.
+I'm a passionate Full Stack Developer with a strong focus on Nextjs and React. I love building dynamic and responsive web applications that provide great user experiences.
 
 * 🌍  I'm based in Ethiopia
 * 🖥️  See my portfolio at [My Portfolio](https://f-vs-portflio.vercel.app/)
