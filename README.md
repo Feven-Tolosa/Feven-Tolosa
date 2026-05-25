@@ -14,7 +14,6 @@ I'm a passionate Full Stack Developer with a strong focus on Nextjs and React. I
 * 🖥️  See my portfolio at [My Portfolio](https://f-vs-portflio-zpwp.vercel.app/)
 * ✉️  You can contact me at [tolosafeven0@gmail.com](mailto:tolosafeven0@gmail.com)
 * 🚀  I'm currently working on NextJS
-* 🧠  I'm learning Next Js
 * 🤝  I'm open to collaborating on React or Next Js Fullstuck web Applications
 * ⚡  Thanks for stopping by! Let's connect and build something amazing together! 🚀
 
