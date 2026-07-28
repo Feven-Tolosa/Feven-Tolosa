@@ -13,7 +13,7 @@ I'm a passionate Full Stack Developer with a strong focus on Nextjs and React. I
 * 🌍  I'm based in Ethiopia
 * 🖥️  See my portfolio at [My Portfolio](https://f-vs-portflio-zpwp.vercel.app/)
 * ✉️  You can contact me at [tolosafeven0@gmail.com](mailto:tolosafeven0@gmail.com)
-* 🚀  I'm currently working on NextJS
+* 🚀  I'm currently working on React Native
 * 🤝  I'm open to collaborating on React or Next Js Fullstuck web Applications
 * ⚡  Thanks for stopping by! Let's connect and build something amazing together! 🚀
 
